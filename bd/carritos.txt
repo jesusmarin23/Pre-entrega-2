@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1670162195912,
+    "timestamp": "2022-12-04T13:56:35.912Z",
+    "productos": [
+      {
+        "nombre": "papa",
+        "price": "100",
+        "foto": "imagen1",
+        "descripcion": "manteca",
+        "codigo": "125",
+        "stock": "10",
+        "id": 4,
+        "timestamp": 1670156636894
+      }
+    ]
+  },
+  {
+    "id": 1670162198800,
+    "timestamp": "2022-12-04T13:56:38.800Z",
+    "productos": [
+      {
+        "nombre": "lechuga",
+        "price": "300",
+        "foto": "imagen1",
+        "descripcion": "manteca",
+        "codigo": "125",
+        "stock": "10",
+        "id": 3,
+        "timestamp": 1670156636894
+      }
+    ]
+  },
+  {
+    "id": 1670164145366,
+    "timestamp": "2022-12-04T14:29:05.366Z",
+    "productos": []
+  },
+  {
+    "id": 1670278954448,
+    "timestamp": "2022-12-05T22:22:34.448Z",
+    "productos": [
+      {
+        "nombre": "papa",
+        "price": "100",
+        "foto": "imagen1",
+        "descripcion": "manteca",
+        "codigo": "125",
+        "stock": "10",
+        "id": 4,
+        "timestamp": 1670156636894
+      },
+      {
+        "nombre": "papa",
+        "price": "200",
+        "foto": "imagen1",
+        "descripcion": "manteca",
+        "codigo": "125",
+        "stock": "10",
+        "id": 4,
+        "timestamp": 1670156636894
+      },
+      {
+        "nombre": "papa",
+        "price": "300",
+        "foto": "imagen1",
+        "descripcion": "manteca",
+        "codigo": "125",
+        "stock": "10",
+        "id": 4,
+        "timestamp": 1670156636894
+      }
+    ]
+  },
+  {
+    "id": 1670280913476,
+    "timestamp": "2022-12-05T22:55:13.476Z",
+    "productos": [
+      {
+        "nombre": "papa",
+        "price": "300",
+        "foto": "imagen1",
+        "descripcion": "manteca",
+        "codigo": "125",
+        "stock": "10",
+        "id": 4,
+        "timestamp": 1670156636894
+      },
+      {
+        "nombre": "papa blanca",
+        "price": "500",
+        "foto": "imagen1",
+        "descripcion": "manteca",
+        "codigo": "125",
+        "stock": "10",
+        "id": 4,
+        "timestamp": 1670156636894
+      }
+    ]
+  }
+]
